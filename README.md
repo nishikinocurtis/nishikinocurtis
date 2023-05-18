@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a wide spectrum, spanning from Service Mesh, eBPF, Distributed Tracing, etc.
+- 🔭 I’m currently working on a wide spectrum, spanning from Service Mesh, Distributed Tracing, Container Monitoring, to eBPF empowered Security and Acceleration, and to Secure Network Management, etc.
+- 🌱 I'm also interested in a wide variety of directions including PL for Systems, SE for Systems, WASM, other acceleration mechanisms.
